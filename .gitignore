@@ -1,3 +1,5 @@
 /tmp
 !*ctags*
 tags
+# ignore commit message
+.gitcommit
